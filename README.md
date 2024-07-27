@@ -1,2 +1,2 @@
 # super-tic-tac-toe
-A site to play super tic tac toe, an advanced version of tic tac toe
+A site to play Super Tic Tac Toe, an advanced version of Tic Tac Toe
